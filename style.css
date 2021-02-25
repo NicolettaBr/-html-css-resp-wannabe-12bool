@@ -5,6 +5,8 @@
   margin-top: 100px;
 }
 
+/*Sezione Lezioni*/
+
 #lezioni .row img {
   /* per centrare orizzontalmente */
   display: block;
@@ -16,13 +18,7 @@
   text-align: center;
 }
 
-/* BLOCCO STEPS */
-#steps .row>.left,
-#steps .row>.central,
-#steps .row>.right {
-  float: left;
-  width: 33%;
-}
+/*Sezione Steps*/
 
 #steps {
   text-align: center;
