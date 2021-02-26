@@ -168,7 +168,7 @@
 
     /*Hidden XS */
 
-    .col-xs-hidden{
+    .xs-hidden{
        display: none;
     }
     
@@ -277,7 +277,7 @@
 
     /*Hidden*/
 
-    .col-md-hidden{
+    .md-hidden{
         display: none;
     }
     
@@ -386,7 +386,7 @@
     
     /*Hidden LG*/
     
-    .col-lg-hidden{
+    .lg-hidden{
         display: none;
     }
 }
